@@ -1,0 +1,504 @@
+{
+ "metas": [
+  {
+   "id": "tt45368240",
+   "type": "movie",
+   "name": "You Can See Everything",
+   "poster": "https://images.metahub.space/poster/small/tt45368240/img",
+   "posterShape": "poster",
+   "imdbRating": "9.1",
+   "releaseInfo": "2026",
+   "description": "IMDb 9.1 from 23,554 votes. Released 2026-10-16."
+  },
+  {
+   "id": "tt2056785",
+   "type": "movie",
+   "name": "Wildwood",
+   "poster": "https://images.metahub.space/poster/small/tt2056785/img",
+   "posterShape": "poster",
+   "imdbRating": "8.7",
+   "releaseInfo": "2026",
+   "description": "IMDb 8.7 from 14,830 votes. Released 2026-10-23."
+  },
+  {
+   "id": "tt33764258",
+   "type": "movie",
+   "name": "The Odyssey",
+   "poster": "https://images.metahub.space/poster/small/tt33764258/img",
+   "posterShape": "poster",
+   "imdbRating": "8.4",
+   "releaseInfo": "2026",
+   "description": "IMDb 8.4 from 541,647 votes. Released 2026-07-17."
+  },
+  {
+   "id": "tt31514146",
+   "type": "movie",
+   "name": "I Swear",
+   "poster": "https://images.metahub.space/poster/small/tt31514146/img",
+   "posterShape": "poster",
+   "imdbRating": "8.3",
+   "releaseInfo": "2026",
+   "description": "IMDb 8.3 from 72,312 votes. Released 2026-04-24."
+  },
+  {
+   "id": "tt12042730",
+   "type": "movie",
+   "name": "Project Hail Mary",
+   "poster": "https://images.metahub.space/poster/small/tt12042730/img",
+   "posterShape": "poster",
+   "imdbRating": "8.2",
+   "releaseInfo": "2026",
+   "description": "IMDb 8.2 from 592,174 votes. Released 2026-03-20."
+  },
+  {
+   "id": "tt22084616",
+   "type": "movie",
+   "name": "Spider-Man: Brand New Day",
+   "poster": "https://images.metahub.space/poster/small/tt22084616/img",
+   "posterShape": "poster",
+   "imdbRating": "7.9",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.9 from 373,725 votes. Released 2026-07-31."
+  },
+  {
+   "id": "tt37287335",
+   "type": "movie",
+   "name": "Obsession",
+   "poster": "https://images.metahub.space/poster/small/tt37287335/img",
+   "posterShape": "poster",
+   "imdbRating": "7.8",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.8 from 419,564 votes. Released 2026-05-15."
+  },
+  {
+   "id": "tt14905854",
+   "type": "movie",
+   "name": "Hamnet",
+   "poster": "https://images.metahub.space/poster/small/tt14905854/img",
+   "posterShape": "poster",
+   "imdbRating": "7.8",
+   "releaseInfo": "2025",
+   "description": "IMDb 7.8 from 140,990 votes. Released 2025-12-05."
+  },
+  {
+   "id": "tt18259538",
+   "type": "movie",
+   "name": "Avatar Aang: The Last Airbender",
+   "poster": "https://images.metahub.space/poster/small/tt18259538/img",
+   "posterShape": "poster",
+   "imdbRating": "7.7",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.7 from 32,274 votes. Released 2026-07-25."
+  },
+  {
+   "id": "tt35522483",
+   "type": "movie",
+   "name": "Nirvanna the Band the Show the Movie",
+   "poster": "https://images.metahub.space/poster/small/tt35522483/img",
+   "posterShape": "poster",
+   "imdbRating": "7.7",
+   "releaseInfo": "2025",
+   "description": "IMDb 7.7 from 14,648 votes. Released 2025-11-17."
+  },
+  {
+   "id": "tt33100314",
+   "type": "movie",
+   "name": "Remarkably Bright Creatures",
+   "poster": "https://images.metahub.space/poster/small/tt33100314/img",
+   "posterShape": "poster",
+   "imdbRating": "7.6",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.6 from 55,678 votes. Released 2026-05-08."
+  },
+  {
+   "id": "tt32916440",
+   "type": "movie",
+   "name": "Marty Supreme",
+   "poster": "https://images.metahub.space/poster/small/tt32916440/img",
+   "posterShape": "poster",
+   "imdbRating": "7.5",
+   "releaseInfo": "2025",
+   "description": "IMDb 7.5 from 227,896 votes. Released 2025-12-25."
+  },
+  {
+   "id": "tt29768334",
+   "type": "movie",
+   "name": "Train Dreams",
+   "poster": "https://images.metahub.space/poster/small/tt29768334/img",
+   "posterShape": "poster",
+   "imdbRating": "7.5",
+   "releaseInfo": "2025",
+   "description": "IMDb 7.5 from 118,536 votes. Released 2025-11-21."
+  },
+  {
+   "id": "tt31450459",
+   "type": "movie",
+   "name": "Digger",
+   "poster": "https://images.metahub.space/poster/small/tt31450459/img",
+   "posterShape": "poster",
+   "imdbRating": "7.5",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.5 from 45,702 votes. Released 2026-10-02."
+  },
+  {
+   "id": "tt34890576",
+   "type": "movie",
+   "name": "Clayface",
+   "poster": "https://images.metahub.space/poster/small/tt34890576/img",
+   "posterShape": "poster",
+   "imdbRating": "7.5",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.5 from 36,497 votes. Released 2026-10-23."
+  },
+  {
+   "id": "tt14173636",
+   "type": "movie",
+   "name": "The Invite",
+   "poster": "https://images.metahub.space/poster/small/tt14173636/img",
+   "posterShape": "poster",
+   "imdbRating": "7.4",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.4 from 96,263 votes. Released 2026-07-10."
+  },
+  {
+   "id": "tt6262770",
+   "type": "movie",
+   "name": "Tenzing",
+   "poster": "https://images.metahub.space/poster/small/tt6262770/img",
+   "posterShape": "poster",
+   "imdbRating": "7.4",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.4 from 13,839 votes. Released 2026-10-16."
+  },
+  {
+   "id": "tt14364480",
+   "type": "movie",
+   "name": "Wake Up Dead Man",
+   "poster": "https://images.metahub.space/poster/small/tt14364480/img",
+   "posterShape": "poster",
+   "imdbRating": "7.3",
+   "releaseInfo": "2025",
+   "description": "IMDb 7.3 from 264,649 votes. Released 2025-12-12."
+  },
+  {
+   "id": "tt11378946",
+   "type": "movie",
+   "name": "Michael",
+   "poster": "https://images.metahub.space/poster/small/tt11378946/img",
+   "posterShape": "poster",
+   "imdbRating": "7.3",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.3 from 196,787 votes. Released 2026-04-24."
+  },
+  {
+   "id": "tt26443597",
+   "type": "movie",
+   "name": "Zootopia 2",
+   "poster": "https://images.metahub.space/poster/small/tt26443597/img",
+   "posterShape": "poster",
+   "imdbRating": "7.3",
+   "releaseInfo": "2025",
+   "description": "IMDb 7.3 from 158,778 votes. Released 2025-11-26."
+  },
+  {
+   "id": "tt32565993",
+   "type": "movie",
+   "name": "The Sheep Detectives",
+   "poster": "https://images.metahub.space/poster/small/tt32565993/img",
+   "posterShape": "poster",
+   "imdbRating": "7.3",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.3 from 124,872 votes. Released 2026-05-08."
+  },
+  {
+   "id": "tt29567915",
+   "type": "movie",
+   "name": "Nuremberg",
+   "poster": "https://images.metahub.space/poster/small/tt29567915/img",
+   "posterShape": "poster",
+   "imdbRating": "7.3",
+   "releaseInfo": "2025",
+   "description": "IMDb 7.3 from 123,583 votes. Released 2025-11-07."
+  },
+  {
+   "id": "tt29355505",
+   "type": "movie",
+   "name": "Toy Story 5",
+   "poster": "https://images.metahub.space/poster/small/tt29355505/img",
+   "posterShape": "poster",
+   "imdbRating": "7.3",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.3 from 105,245 votes. Released 2026-06-19."
+  },
+  {
+   "id": "tt1756855",
+   "type": "movie",
+   "name": "Coyote vs. Acme",
+   "poster": "https://images.metahub.space/poster/small/tt1756855/img",
+   "posterShape": "poster",
+   "imdbRating": "7.3",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.3 from 48,725 votes. Released 2026-08-28."
+  },
+  {
+   "id": "tt32547691",
+   "type": "movie",
+   "name": "Pressure",
+   "poster": "https://images.metahub.space/poster/small/tt32547691/img",
+   "posterShape": "poster",
+   "imdbRating": "7.3",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.3 from 41,957 votes. Released 2026-05-29."
+  },
+  {
+   "id": "tt30343021",
+   "type": "movie",
+   "name": "Song Sung Blue",
+   "poster": "https://images.metahub.space/poster/small/tt30343021/img",
+   "posterShape": "poster",
+   "imdbRating": "7.3",
+   "releaseInfo": "2025",
+   "description": "IMDb 7.3 from 34,178 votes. Released 2025-12-25."
+  },
+  {
+   "id": "tt33095251",
+   "type": "movie",
+   "name": "Tony",
+   "poster": "https://images.metahub.space/poster/small/tt33095251/img",
+   "posterShape": "poster",
+   "imdbRating": "7.3",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.3 from 20,428 votes. Released 2026-08-21."
+  },
+  {
+   "id": "tt1757678",
+   "type": "movie",
+   "name": "Avatar: Fire and Ash",
+   "poster": "https://images.metahub.space/poster/small/tt1757678/img",
+   "posterShape": "poster",
+   "imdbRating": "7.2",
+   "releaseInfo": "2025",
+   "description": "IMDb 7.2 from 217,167 votes. Released 2025-12-19."
+  },
+  {
+   "id": "tt31227572",
+   "type": "movie",
+   "name": "Predator: Badlands",
+   "poster": "https://images.metahub.space/poster/small/tt31227572/img",
+   "posterShape": "poster",
+   "imdbRating": "7.2",
+   "releaseInfo": "2025",
+   "description": "IMDb 7.2 from 173,042 votes. Released 2025-11-07."
+  },
+  {
+   "id": "tt32141377",
+   "type": "movie",
+   "name": "28 Years Later: The Bone Temple",
+   "poster": "https://images.metahub.space/poster/small/tt32141377/img",
+   "posterShape": "poster",
+   "imdbRating": "7.2",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.2 from 134,246 votes. Released 2026-01-16."
+  },
+  {
+   "id": "tt26443616",
+   "type": "movie",
+   "name": "Hoppers",
+   "poster": "https://images.metahub.space/poster/small/tt26443616/img",
+   "posterShape": "poster",
+   "imdbRating": "7.2",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.2 from 89,880 votes. Released 2026-03-06."
+  },
+  {
+   "id": "tt10375624",
+   "type": "movie",
+   "name": "Voicemails for Isabelle",
+   "poster": "https://images.metahub.space/poster/small/tt10375624/img",
+   "posterShape": "poster",
+   "imdbRating": "7.2",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.2 from 59,000 votes. Released 2026-06-19."
+  },
+  {
+   "id": "tt33296751",
+   "type": "movie",
+   "name": "Tuner",
+   "poster": "https://images.metahub.space/poster/small/tt33296751/img",
+   "posterShape": "poster",
+   "imdbRating": "7.2",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.2 from 39,001 votes. Released 2026-05-29."
+  },
+  {
+   "id": "tt7526136",
+   "type": "movie",
+   "name": "Heart of the Beast",
+   "poster": "https://images.metahub.space/poster/small/tt7526136/img",
+   "posterShape": "poster",
+   "imdbRating": "7.2",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.2 from 33,099 votes. Released 2026-09-25."
+  },
+  {
+   "id": "tt29552248",
+   "type": "movie",
+   "name": "Swapped",
+   "poster": "https://images.metahub.space/poster/small/tt29552248/img",
+   "posterShape": "poster",
+   "imdbRating": "7.2",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.2 from 25,951 votes. Released 2026-05-01."
+  },
+  {
+   "id": "tt42863533",
+   "type": "movie",
+   "name": "Maternal Instinct",
+   "poster": "https://images.metahub.space/poster/small/tt42863533/img",
+   "posterShape": "poster",
+   "imdbRating": "7.2",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.2 from 13,510 votes. Released 2026-06-12."
+  },
+  {
+   "id": "tt29028515",
+   "type": "movie",
+   "name": "Wasteman",
+   "poster": "https://images.metahub.space/poster/small/tt29028515/img",
+   "posterShape": "poster",
+   "imdbRating": "7.2",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.2 from 10,735 votes. Released 2026-05-19."
+  },
+  {
+   "id": "tt33071426",
+   "type": "movie",
+   "name": "The Drama",
+   "poster": "https://images.metahub.space/poster/small/tt33071426/img",
+   "posterShape": "poster",
+   "imdbRating": "7.1",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.1 from 140,663 votes. Released 2026-04-03."
+  },
+  {
+   "id": "tt34206385",
+   "type": "movie",
+   "name": "Primetime",
+   "poster": "https://images.metahub.space/poster/small/tt34206385/img",
+   "posterShape": "poster",
+   "imdbRating": "7.1",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.1 from 25,736 votes. Released 2026-09-25."
+  },
+  {
+   "id": "tt1341338",
+   "type": "movie",
+   "name": "Good Luck, Have Fun, Don't Die",
+   "poster": "https://images.metahub.space/poster/small/tt1341338/img",
+   "posterShape": "poster",
+   "imdbRating": "7.0",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.0 from 86,179 votes. Released 2026-02-13."
+  },
+  {
+   "id": "tt24950660",
+   "type": "movie",
+   "name": "Eternity",
+   "poster": "https://images.metahub.space/poster/small/tt24950660/img",
+   "posterShape": "poster",
+   "imdbRating": "6.9",
+   "releaseInfo": "2025",
+   "description": "IMDb 6.9 from 70,365 votes. Released 2025-11-26."
+  },
+  {
+   "id": "tt32321317",
+   "type": "movie",
+   "name": "Pillion",
+   "poster": "https://images.metahub.space/poster/small/tt32321317/img",
+   "posterShape": "poster",
+   "imdbRating": "6.9",
+   "releaseInfo": "2026",
+   "description": "IMDb 6.9 from 25,493 votes. Released 2026-02-27."
+  },
+  {
+   "id": "tt39792948",
+   "type": "movie",
+   "name": "Louis Theroux: Inside the Manosphere",
+   "poster": "https://images.metahub.space/poster/small/tt39792948/img",
+   "posterShape": "poster",
+   "imdbRating": "6.9",
+   "releaseInfo": "2026",
+   "description": "IMDb 6.9 from 18,388 votes. Released 2026-03-11."
+  },
+  {
+   "id": "tt32430579",
+   "type": "movie",
+   "name": "Crime 101",
+   "poster": "https://images.metahub.space/poster/small/tt32430579/img",
+   "posterShape": "poster",
+   "imdbRating": "6.8",
+   "releaseInfo": "2026",
+   "description": "IMDb 6.8 from 99,879 votes. Released 2026-02-13."
+  },
+  {
+   "id": "tt28014327",
+   "type": "movie",
+   "name": "Mayday",
+   "poster": "https://images.metahub.space/poster/small/tt28014327/img",
+   "posterShape": "poster",
+   "imdbRating": "6.8",
+   "releaseInfo": "2026",
+   "description": "IMDb 6.8 from 55,253 votes. Released 2026-09-04."
+  },
+  {
+   "id": "tt22526100",
+   "type": "movie",
+   "name": "The Love Hypothesis",
+   "poster": "https://images.metahub.space/poster/small/tt22526100/img",
+   "posterShape": "poster",
+   "imdbRating": "6.8",
+   "releaseInfo": "2026",
+   "description": "IMDb 6.8 from 33,646 votes. Released 2026-09-23."
+  },
+  {
+   "id": "tt32104007",
+   "type": "movie",
+   "name": "Young Washington",
+   "poster": "https://images.metahub.space/poster/small/tt32104007/img",
+   "posterShape": "poster",
+   "imdbRating": "6.8",
+   "releaseInfo": "2026",
+   "description": "IMDb 6.8 from 14,974 votes. Released 2026-07-03."
+  },
+  {
+   "id": "tt26657236",
+   "type": "movie",
+   "name": "Backrooms",
+   "poster": "https://images.metahub.space/poster/small/tt26657236/img",
+   "posterShape": "poster",
+   "imdbRating": "6.7",
+   "releaseInfo": "2026",
+   "description": "IMDb 6.7 from 242,847 votes. Released 2026-05-29."
+  },
+  {
+   "id": "tt27543632",
+   "type": "movie",
+   "name": "The Housemaid",
+   "poster": "https://images.metahub.space/poster/small/tt27543632/img",
+   "posterShape": "poster",
+   "imdbRating": "6.7",
+   "releaseInfo": "2025",
+   "description": "IMDb 6.7 from 211,278 votes. Released 2025-12-19."
+  },
+  {
+   "id": "tt8036976",
+   "type": "movie",
+   "name": "Send Help",
+   "poster": "https://images.metahub.space/poster/small/tt8036976/img",
+   "posterShape": "poster",
+   "imdbRating": "6.7",
+   "releaseInfo": "2026",
+   "description": "IMDb 6.7 from 162,105 votes. Released 2026-01-30."
+  }
+ ]
+}

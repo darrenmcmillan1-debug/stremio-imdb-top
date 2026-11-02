@@ -1,0 +1,31 @@
+{
+ "id": "local.darren.imdb-top-12m",
+ "version": "1.1.0",
+ "name": "IMDb Top - Last 12 Months",
+ "description": "Top 50 English-language movies and TV shows released in the last 12 months, by IMDb rating (10,000+ votes). Rebuilt daily.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie",
+  "series"
+ ],
+ "idPrefixes": [
+  "tt"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "top-imdb-12m-movies",
+   "name": "Top 50 Movies - Last 12 Months"
+  },
+  {
+   "type": "series",
+   "id": "top-imdb-12m-series",
+   "name": "Top 50 TV Shows - Last 12 Months"
+  }
+ ],
+ "behaviorHints": {
+  "configurable": false
+ }
+}
