@@ -8,7 +8,7 @@
    "posterShape": "poster",
    "imdbRating": "8.7",
    "releaseInfo": "2025",
-   "description": "IMDb 8.7 from 116,328 votes. Released 2025-11-28."
+   "description": "IMDb 8.7 from 116,372 votes. Released 2025-11-28."
   },
   {
    "id": "tt27497448",
@@ -18,7 +18,7 @@
    "posterShape": "poster",
    "imdbRating": "8.6",
    "releaseInfo": "2026",
-   "description": "IMDb 8.6 from 292,704 votes. Released 2026-01-18."
+   "description": "IMDb 8.6 from 292,813 votes. Released 2026-01-18."
   },
   {
    "id": "tt36594331",
@@ -28,7 +28,7 @@
    "posterShape": "poster",
    "imdbRating": "8.5",
    "releaseInfo": "2026",
-   "description": "IMDb 8.5 from 31,867 votes. Released 2026-04-06."
+   "description": "IMDb 8.5 from 31,881 votes. Released 2026-04-06."
   },
   {
    "id": "tt26453092",
@@ -38,7 +38,7 @@
    "posterShape": "poster",
    "imdbRating": "8.4",
    "releaseInfo": "2025",
-   "description": "IMDb 8.4 from 14,947 votes. Released 2025-11-19."
+   "description": "IMDb 8.4 from 14,960 votes. Released 2025-11-19."
   },
   {
    "id": "tt37022512",
@@ -48,7 +48,7 @@
    "posterShape": "poster",
    "imdbRating": "8.3",
    "releaseInfo": "2026",
-   "description": "IMDb 8.3 from 10,712 votes. Released 2026-05-06."
+   "description": "IMDb 8.3 from 10,741 votes. Released 2026-05-06."
   },
   {
    "id": "tt34991493",
@@ -58,7 +58,7 @@
    "posterShape": "poster",
    "imdbRating": "8.2",
    "releaseInfo": "2026",
-   "description": "IMDb 8.2 from 28,362 votes. Released 2026-05-15."
+   "description": "IMDb 8.2 from 28,395 votes. Released 2026-05-15."
   },
   {
    "id": "tt10970762",
@@ -68,7 +68,7 @@
    "posterShape": "poster",
    "imdbRating": "8.2",
    "releaseInfo": "2026",
-   "description": "IMDb 8.2 from 15,581 votes. Released 2026-04-08."
+   "description": "IMDb 8.2 from 15,595 votes. Released 2026-04-08."
   },
   {
    "id": "tt40197357",
@@ -78,7 +78,7 @@
    "posterShape": "poster",
    "imdbRating": "8.2",
    "releaseInfo": "2026",
-   "description": "IMDb 8.2 from 14,036 votes. Released 2026-02-25."
+   "description": "IMDb 8.2 from 14,072 votes. Released 2026-02-25."
   },
   {
    "id": "tt33332385",
@@ -88,7 +88,7 @@
    "posterShape": "poster",
    "imdbRating": "8.1",
    "releaseInfo": "2026",
-   "description": "IMDb 8.1 from 102,246 votes. Released 2026-04-29."
+   "description": "IMDb 8.1 from 102,502 votes. Released 2026-04-29."
   },
   {
    "id": "tt21097264",
@@ -98,7 +98,7 @@
    "posterShape": "poster",
    "imdbRating": "8.0",
    "releaseInfo": "2026",
-   "description": "IMDb 8.0 from 34,691 votes. Released 2026-10-01."
+   "description": "IMDb 8.0 from 35,110 votes. Released 2026-10-01."
   },
   {
    "id": "tt32767294",
@@ -108,7 +108,7 @@
    "posterShape": "poster",
    "imdbRating": "8.0",
    "releaseInfo": "2026",
-   "description": "IMDb 8.0 from 19,017 votes. Released 2026-04-23."
+   "description": "IMDb 8.0 from 19,042 votes. Released 2026-04-23."
   },
   {
    "id": "tt22202452",
@@ -118,17 +118,7 @@
    "posterShape": "poster",
    "imdbRating": "7.9",
    "releaseInfo": "2025",
-   "description": "IMDb 7.9 from 182,746 votes. Released 2025-11-07."
-  },
-  {
-   "id": "tt33546863",
-   "type": "series",
-   "name": "Off Campus",
-   "poster": "https://images.metahub.space/poster/small/tt33546863/img",
-   "posterShape": "poster",
-   "imdbRating": "7.8",
-   "releaseInfo": "2026",
-   "description": "IMDb 7.8 from 59,952 votes. Released 2026-05-13."
+   "description": "IMDb 7.9 from 182,853 votes. Released 2025-11-07."
   },
   {
    "id": "tt11540908",
@@ -138,7 +128,17 @@
    "posterShape": "poster",
    "imdbRating": "7.8",
    "releaseInfo": "2026",
-   "description": "IMDb 7.8 from 59,306 votes. Released 2026-10-07."
+   "description": "IMDb 7.8 from 60,269 votes. Released 2026-10-07."
+  },
+  {
+   "id": "tt33546863",
+   "type": "series",
+   "name": "Off Campus",
+   "poster": "https://images.metahub.space/poster/small/tt33546863/img",
+   "posterShape": "poster",
+   "imdbRating": "7.8",
+   "releaseInfo": "2026",
+   "description": "IMDb 7.8 from 60,010 votes. Released 2026-05-13."
   },
   {
    "id": "tt36303968",
@@ -148,7 +148,7 @@
    "posterShape": "poster",
    "imdbRating": "7.8",
    "releaseInfo": "2026",
-   "description": "IMDb 7.8 from 34,454 votes. Released 2026-07-27."
+   "description": "IMDb 7.8 from 34,540 votes. Released 2026-07-27."
   },
   {
    "id": "tt33265765",
@@ -158,7 +158,7 @@
    "posterShape": "poster",
    "imdbRating": "7.8",
    "releaseInfo": "2026",
-   "description": "IMDb 7.8 from 31,390 votes. Released 2026-05-07."
+   "description": "IMDb 7.8 from 31,426 votes. Released 2026-05-07."
   },
   {
    "id": "tt33204276",
@@ -168,7 +168,7 @@
    "posterShape": "poster",
    "imdbRating": "7.8",
    "releaseInfo": "2026",
-   "description": "IMDb 7.8 from 25,298 votes. Released 2026-03-14."
+   "description": "IMDb 7.8 from 25,324 votes. Released 2026-03-14."
   },
   {
    "id": "tt23112594",
@@ -178,7 +178,7 @@
    "posterShape": "poster",
    "imdbRating": "7.8",
    "releaseInfo": "2026",
-   "description": "IMDb 7.8 from 12,240 votes. Released 2026-10-14."
+   "description": "IMDb 7.8 from 12,538 votes. Released 2026-10-14."
   },
   {
    "id": "tt31438328",
@@ -188,7 +188,7 @@
    "posterShape": "poster",
    "imdbRating": "7.8",
    "releaseInfo": "2026",
-   "description": "IMDb 7.8 from 11,967 votes. Released 2026-03-05."
+   "description": "IMDb 7.8 from 12,023 votes. Released 2026-03-05."
   },
   {
    "id": "tt26545992",
@@ -198,7 +198,7 @@
    "posterShape": "poster",
    "imdbRating": "7.7",
    "releaseInfo": "2026",
-   "description": "IMDb 7.7 from 88,203 votes. Released 2026-08-16."
+   "description": "IMDb 7.7 from 88,551 votes. Released 2026-08-16."
   },
   {
    "id": "tt30460310",
@@ -208,7 +208,7 @@
    "posterShape": "poster",
    "imdbRating": "7.6",
    "releaseInfo": "2026",
-   "description": "IMDb 7.6 from 77,103 votes. Released 2026-05-25."
+   "description": "IMDb 7.6 from 77,159 votes. Released 2026-05-25."
   },
   {
    "id": "tt33539520",
@@ -218,7 +218,7 @@
    "posterShape": "poster",
    "imdbRating": "7.6",
    "releaseInfo": "2026",
-   "description": "IMDb 7.6 from 29,641 votes. Released 2026-09-16."
+   "description": "IMDb 7.6 from 29,800 votes. Released 2026-09-16."
   },
   {
    "id": "tt32420734",
@@ -228,7 +228,7 @@
    "posterShape": "poster",
    "imdbRating": "7.6",
    "releaseInfo": "2026",
-   "description": "IMDb 7.6 from 25,522 votes. Released 2026-03-08."
+   "description": "IMDb 7.6 from 25,536 votes. Released 2026-03-08."
   },
   {
    "id": "tt23148340",
@@ -238,7 +238,7 @@
    "posterShape": "poster",
    "imdbRating": "7.6",
    "releaseInfo": "2026",
-   "description": "IMDb 7.6 from 22,720 votes. Released 2026-10-15."
+   "description": "IMDb 7.6 from 23,393 votes. Released 2026-10-15."
   },
   {
    "id": "tt31121364",
@@ -248,7 +248,7 @@
    "posterShape": "poster",
    "imdbRating": "7.6",
    "releaseInfo": "2025",
-   "description": "IMDb 7.6 from 20,584 votes. Released 2025-11-06."
+   "description": "IMDb 7.6 from 20,596 votes. Released 2025-11-06."
   },
   {
    "id": "tt31314751",
@@ -258,7 +258,7 @@
    "posterShape": "poster",
    "imdbRating": "7.5",
    "releaseInfo": "2025",
-   "description": "IMDb 7.5 from 52,984 votes. Released 2025-11-06."
+   "description": "IMDb 7.5 from 53,012 votes. Released 2025-11-06."
   },
   {
    "id": "tt8599532",
@@ -268,7 +268,7 @@
    "posterShape": "poster",
    "imdbRating": "7.5",
    "releaseInfo": "2026",
-   "description": "IMDb 7.5 from 35,871 votes. Released 2026-03-04."
+   "description": "IMDb 7.5 from 35,889 votes. Released 2026-03-04."
   },
   {
    "id": "tt13592494",
@@ -278,7 +278,7 @@
    "posterShape": "poster",
    "imdbRating": "7.5",
    "releaseInfo": "2026",
-   "description": "IMDb 7.5 from 11,848 votes. Released 2026-07-30."
+   "description": "IMDb 7.5 from 11,863 votes. Released 2026-07-30."
   },
   {
    "id": "tt31974367",
@@ -288,7 +288,7 @@
    "posterShape": "poster",
    "imdbRating": "7.4",
    "releaseInfo": "2025",
-   "description": "IMDb 7.4 from 84,909 votes. Released 2025-11-13."
+   "description": "IMDb 7.4 from 84,989 votes. Released 2025-11-13."
   },
   {
    "id": "tt21066182",
@@ -298,7 +298,7 @@
    "posterShape": "poster",
    "imdbRating": "7.4",
    "releaseInfo": "2026",
-   "description": "IMDb 7.4 from 41,434 votes. Released 2026-01-27."
+   "description": "IMDb 7.4 from 41,463 votes. Released 2026-01-27."
   },
   {
    "id": "tt35618070",
@@ -308,7 +308,7 @@
    "posterShape": "poster",
    "imdbRating": "7.4",
    "releaseInfo": "2026",
-   "description": "IMDb 7.4 from 19,930 votes. Released 2026-08-05."
+   "description": "IMDb 7.4 from 19,963 votes. Released 2026-08-05."
   },
   {
    "id": "tt35946742",
@@ -318,7 +318,7 @@
    "posterShape": "poster",
    "imdbRating": "7.4",
    "releaseInfo": "2026",
-   "description": "IMDb 7.4 from 11,684 votes. Released 2026-05-20."
+   "description": "IMDb 7.4 from 11,703 votes. Released 2026-05-20."
   },
   {
    "id": "tt34385331",
@@ -328,7 +328,7 @@
    "posterShape": "poster",
    "imdbRating": "7.3",
    "releaseInfo": "2026",
-   "description": "IMDb 7.3 from 28,099 votes. Released 2026-03-01."
+   "description": "IMDb 7.3 from 28,141 votes. Released 2026-03-01."
   },
   {
    "id": "tt31137273",
@@ -338,7 +338,7 @@
    "posterShape": "poster",
    "imdbRating": "7.3",
    "releaseInfo": "2026",
-   "description": "IMDb 7.3 from 20,423 votes. Released 2026-04-15."
+   "description": "IMDb 7.3 from 20,448 votes. Released 2026-04-15."
   },
   {
    "id": "tt31709373",
@@ -348,7 +348,7 @@
    "posterShape": "poster",
    "imdbRating": "7.3",
    "releaseInfo": "2026",
-   "description": "IMDb 7.3 from 16,201 votes. Released 2026-02-12."
+   "description": "IMDb 7.3 from 16,216 votes. Released 2026-02-12."
   },
   {
    "id": "tt15232564",
@@ -358,7 +358,7 @@
    "posterShape": "poster",
    "imdbRating": "7.3",
    "releaseInfo": "2026",
-   "description": "IMDb 7.3 from 14,505 votes. Released 2026-02-12."
+   "description": "IMDb 7.3 from 14,513 votes. Released 2026-02-12."
   },
   {
    "id": "tt27557289",
@@ -368,7 +368,7 @@
    "posterShape": "poster",
    "imdbRating": "7.2",
    "releaseInfo": "2026",
-   "description": "IMDb 7.2 from 43,033 votes. Released 2026-05-21."
+   "description": "IMDb 7.2 from 43,066 votes. Released 2026-05-21."
   },
   {
    "id": "tt36957934",
@@ -378,7 +378,7 @@
    "posterShape": "poster",
    "imdbRating": "7.2",
    "releaseInfo": "2026",
-   "description": "IMDb 7.2 from 14,232 votes. Released 2026-04-09."
+   "description": "IMDb 7.2 from 14,241 votes. Released 2026-04-09."
   },
   {
    "id": "tt33035373",
@@ -388,7 +388,7 @@
    "posterShape": "poster",
    "imdbRating": "7.1",
    "releaseInfo": "2026",
-   "description": "IMDb 7.1 from 96,756 votes. Released 2026-01-08."
+   "description": "IMDb 7.1 from 96,803 votes. Released 2026-01-08."
   },
   {
    "id": "tt34771210",
@@ -398,7 +398,7 @@
    "posterShape": "poster",
    "imdbRating": "7.1",
    "releaseInfo": "2026",
-   "description": "IMDb 7.1 from 69,687 votes. Released 2026-06-18."
+   "description": "IMDb 7.1 from 69,742 votes. Released 2026-06-18."
   },
   {
    "id": "tt33270420",
@@ -408,7 +408,7 @@
    "posterShape": "poster",
    "imdbRating": "7.1",
    "releaseInfo": "2026",
-   "description": "IMDb 7.1 from 13,297 votes. Released 2026-01-15."
+   "description": "IMDb 7.1 from 13,306 votes. Released 2026-01-15."
   },
   {
    "id": "tt32499731",
@@ -418,7 +418,7 @@
    "posterShape": "poster",
    "imdbRating": "7.0",
    "releaseInfo": "2026",
-   "description": "IMDb 7.0 from 20,804 votes. Released 2026-01-21."
+   "description": "IMDb 7.0 from 20,824 votes. Released 2026-01-21."
   },
   {
    "id": "tt9169516",
@@ -428,7 +428,7 @@
    "posterShape": "poster",
    "imdbRating": "6.9",
    "releaseInfo": "2026",
-   "description": "IMDb 6.9 from 28,562 votes. Released 2026-01-01."
+   "description": "IMDb 6.9 from 28,573 votes. Released 2026-01-01."
   },
   {
    "id": "tt27497393",
@@ -438,7 +438,7 @@
    "posterShape": "poster",
    "imdbRating": "6.9",
    "releaseInfo": "2026",
-   "description": "IMDb 6.9 from 15,021 votes. Released 2026-07-23."
+   "description": "IMDb 6.9 from 15,062 votes. Released 2026-07-23."
   },
   {
    "id": "tt42178219",
@@ -448,7 +448,7 @@
    "posterShape": "poster",
    "imdbRating": "6.9",
    "releaseInfo": "2026",
-   "description": "IMDb 6.9 from 11,217 votes. Released 2026-05-15."
+   "description": "IMDb 6.9 from 11,225 votes. Released 2026-05-15."
   },
   {
    "id": "tt32937780",
@@ -458,7 +458,7 @@
    "posterShape": "poster",
    "imdbRating": "6.8",
    "releaseInfo": "2026",
-   "description": "IMDb 6.8 from 39,688 votes. Released 2026-03-26."
+   "description": "IMDb 6.8 from 39,725 votes. Released 2026-03-26."
   },
   {
    "id": "tt35466672",
@@ -468,7 +468,7 @@
    "posterShape": "poster",
    "imdbRating": "6.8",
    "releaseInfo": "2026",
-   "description": "IMDb 6.8 from 19,322 votes. Released 2026-04-10."
+   "description": "IMDb 6.8 from 19,326 votes. Released 2026-04-10."
   },
   {
    "id": "tt34675596",
@@ -478,7 +478,7 @@
    "posterShape": "poster",
    "imdbRating": "6.7",
    "releaseInfo": "2026",
-   "description": "IMDb 6.7 from 26,094 votes. Released 2026-06-05."
+   "description": "IMDb 6.7 from 26,122 votes. Released 2026-06-05."
   },
   {
    "id": "tt34866681",
@@ -488,7 +488,7 @@
    "posterShape": "poster",
    "imdbRating": "6.7",
    "releaseInfo": "2026",
-   "description": "IMDb 6.7 from 20,116 votes. Released 2026-07-15."
+   "description": "IMDb 6.7 from 20,151 votes. Released 2026-07-15."
   },
   {
    "id": "tt27331527",
@@ -498,7 +498,7 @@
    "posterShape": "poster",
    "imdbRating": "6.7",
    "releaseInfo": "2026",
-   "description": "IMDb 6.7 from 15,340 votes. Released 2026-04-30."
+   "description": "IMDb 6.7 from 15,345 votes. Released 2026-04-30."
   }
  ]
 }
